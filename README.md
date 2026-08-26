@@ -1,5 +1,7 @@
 # Mallorcan Bricks
 
+**Live: https://libertslinards.github.io/mallorcan-bricks/**
+
 Placeholder page. One file, `index.html`, no build step.
 
 The point right now is only to prove the pipeline: **push to GitHub → the live site
